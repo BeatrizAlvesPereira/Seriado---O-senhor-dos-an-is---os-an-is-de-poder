@@ -1,0 +1,39 @@
+body{
+    background-color: #250553;
+    margin: 0;
+    text-align: center;
+}
+.topo{
+    background-color: #02021C;
+    text-align: center;
+    padding: 10px 0;
+}
+h1{
+    font-size: 18px;
+    color: #ffffff;
+    margin: 0;
+}
+h2{
+    color: #ffffff;
+    text-align: center;
+}
+img{
+    height: 400px;
+}
+.conteudo{
+    color: #CFCFCF;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 80px;
+    width: 600px;
+}
+p{
+    font-size: 18px;
+    line-height: 36px;
+}
+span{
+    background-color: #B535F6;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 5px 15px;
+}
